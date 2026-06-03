@@ -16,6 +16,3 @@ const p1 = new Product("Laptop", 1200);
 p1.getInfo();
 
 
-// Output:
-Product: Laptop
-Price: $1200
